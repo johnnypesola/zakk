@@ -1,0 +1,23 @@
+{
+  "name": "zakk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server ./src -d -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnypesola/zakk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnypesola/zakk/issues"
+  },
+  "homepage": "https://github.com/johnnypesola/zakk#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
